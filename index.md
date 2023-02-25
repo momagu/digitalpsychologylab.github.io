@@ -12,6 +12,10 @@
 
 [comment]: # (To convert the markdown file to html with 'Markdown PDF' [1] open in VS Code the preview, [2] right click into the window with the preview, [3] Click on HTML --> HTML cdn hosted. --> Do NOT right click and export where your code is, since it will be without the format)
 
+[comment]: # (When you are done, upload your work and use GitHub Pages to create your own website.)
+[comment]: # (In the folder 'github_pages_tutorial' you can find pictures for the instructions. Be sure that the exported .html file is name 'index.html')
+[comment]: # (Additionally the link to the official instruction: https://pages.github.com/)
+
 [comment]: # (In this section you can define rules for special blocks or formats.)
 <style>
 .generalRules {
