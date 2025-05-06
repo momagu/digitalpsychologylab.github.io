@@ -1,0 +1,30 @@
+# Jekyll specific files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm or yarn)
+node_modules/
+
+# Bundler dependencies
+/vendor/bundle/
+
+# Gemfile.lock, if you are not using it for deployment
+Gemfile.lock

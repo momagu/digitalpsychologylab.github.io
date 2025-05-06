@@ -1,5 +1,9 @@
-This is a template which should serve as a good starting point. 
+# How to build locally
 
-Download or fork the project for your own work.
+Install jekyll, ruby and ruby-dev. run `bundle install` from this directory.
+This will install dependencies.
 
-To start open up the 'index.md' file, there you will find further instructions. 
+# Develop locally:
+```sh
+  bundle exec jekyll serve --incremental --livereload
+```
