@@ -54,7 +54,7 @@ severe cases, leaving individuals with mild to moderate
 
 Digital interventions delivered through smartphone applications or websites
 offer a promising solution. These interventions typically provide cognitive
-behavioral therapy (<a href="#cbt">CBT</a>)-based approaches including
+behavioral therapy (<a class="gls" href="#cbt">CBT</a>)-based approaches including
 psychoeducation, cognitive restructuring, and self-monitoring components. They
 address both structural barriers (providing immediate, low-cost access) and
 non-structural barriers such as stigma by offering discrete treatment

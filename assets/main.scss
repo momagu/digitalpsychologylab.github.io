@@ -82,9 +82,9 @@ table {
 }
 
 .gls {
-  color: black;
+  color: black !important;
   /* Accent color */
-  text-decoration: underline;
+  text-decoration: underline !important;
   /* Underline distance */
   text-decoration-color: #4a6fa5;
   text-underline-offset: 2px;
