@@ -17,6 +17,7 @@ et al. (2025) aims to provide insights into the user experiences and preferences
 for these interventions.
 
 <div class="highlight-box" markdown="1">
+
 ## Meta-Analysis Overview
 
 **Focus of study**: User Experiences of and Preferences for Self-Guided Digital
@@ -96,6 +97,50 @@ results from each study, generating themes that captured key aspects of user
 experiences and preferences. This approach allowed for an in-depth exploration
 of attitudes, views, and experiences critical to intervention acceptability,
 outcome, and engagement.
+
+
+## What does the study tell us?
+
+This meta-analysis reveals that **self-guided digital interventions for eating
+disorders offer significant benefits** through their accessibility, anonymity,
+and flexibility. Users consistently reported that these interventions **enhanced
+self-awareness and reflection**, promoting mindfulness during challenging
+moments and reducing eating disorder thoughts and behaviors. The _convenience
+and discrete nature_ of digital tools created a safe environment for users to
+engage with treatment without fear of stigma or judgment.
+
+However, the study uncovers an important limitation: users generally **did not
+perceive digital interventions as sufficient standalone treatments**. Most
+participants viewed these tools either as a _stepping stone to traditional
+therapy_ or as a _"last resort"_ after unsuccessful treatment attempts. The
+effectiveness of digital interventions was **significantly influenced by
+personalization options**, with users emphasizing the need for customizable
+content and functions to address their unique symptoms, triggers, and knowledge
+levels.
+
+The findings highlight that **support remains crucial** in digital
+interventions, whether from professionals (providing accountability and
+guidance) or peers (reducing isolation and offering understanding). Users
+strongly preferred varied content formats (audio, visual, text) over text-heavy
+presentations and expressed divergent preferences regarding interface design and
+features like food logging. Perhaps most importantly, the meta-analysis
+demonstrates that **user engagement is directly linked to perceived relevance**
+of the intervention to individual needs, suggesting that _future development
+should prioritize adaptive, person-centered approaches_ that can evolve with
+users throughout their recovery journey.
+
+## How do we assess this study?
+
+This evaluation was done according to the (<a class="gls" href="#magic">MAGIC Criteria</a>), using the following five questions:
+
+### How substantial are the effects?
+
+The study is a qualitative meta-synthesis, and as such, it does not report statistical values of individual studies. Nevertheless, it does suggest that the effects of self-guided digital interventions for <a class="gls" href="#eds">EDs</a> are **modest, but subjectively meaningful**. A great majority described short-term improvement in self-reflection and disordered pattern awareness, but they also reported their perception of these types of interventions as being insufficient to replace traditional therapy. Additionally, different methods and intervention formats (web-based, smartphone-based, hypothetical intervention etc.) were used in the original studies, further limiting the comparability of the effects. 
+
+Summa summarum, it can be said that the effects of the study are situational and heavily dependant on many individual factors.
+
+
+### How are the results presented?
 
 Through systematic analysis, seven metathemes emerged that comprehensively
 describe how users perceive and engage with digital
@@ -213,67 +258,66 @@ These themes provide valuable insights into why users engage with or disengage
 from digital interventions, highlighting the importance of personalization and
 user-centered design to improve adherence and effectiveness.
 
-## What does the study tell us?
+### How generalizable are the findings?
 
-This meta-analysis reveals that **self-guided digital interventions for eating
-disorders offer significant benefits** through their accessibility, anonymity,
-and flexibility. Users consistently reported that these interventions **enhanced
-self-awareness and reflection**, promoting mindfulness during challenging
-moments and reducing eating disorder thoughts and behaviors. The _convenience
-and discrete nature_ of digital tools created a safe environment for users to
-engage with treatment without fear of stigma or judgment.
+The first obstacle to results' potential to be generalizable is the heterogeneity of the primary studies that all differ in subject pools and methodologies, resulting in a very dispersed effect. One of the limitations that the authors themselves acknowledge is the lack of diversity in the original studies, with most participants being college educated females from western countries with very few outliers, all of which are in a smaller or greater degree aware of their disordered patterns and are actively seeking help, which already suggests a selection bias. Another caveat is that eating disorders are highly individual, so striking the balance between all different needs and functionalities is very hard.
+The authors provide a set of design guidelines extracted from the users' experiences and comments, but not a systematic, transferable design framework to follow. As such, the insights are informative, but lack precision, and can be described as moderately generalizable.
 
-However, the study uncovers an important limitation: users generally **did not
-perceive digital interventions as sufficient standalone treatments**. Most
-participants viewed these tools either as a _stepping stone to traditional
-therapy_ or as a _"last resort"_ after unsuccessful treatment attempts. The
-effectiveness of digital interventions was **significantly influenced by
-personalization options**, with users emphasizing the need for customizable
-content and functions to address their unique symptoms, triggers, and knowledge
-levels.
+### What makes the meta analysis scientifically relevant?
 
-The findings highlight that **support remains crucial** in digital
-interventions, whether from professionals (providing accountability and
-guidance) or peers (reducing isolation and offering understanding). Users
-strongly preferred varied content formats (audio, visual, text) over text-heavy
-presentations and expressed divergent preferences regarding interface design and
-features like food logging. Perhaps most importantly, the meta-analysis
-demonstrates that **user engagement is directly linked to perceived relevance**
-of the intervention to individual needs, suggesting that _future development
-should prioritize adaptive, person-centered approaches_ that can evolve with
-users throughout their recovery journey.
+First and foremost, this is a **timely** synthesis of user experiences with self-guided digital interventions for <a class="gls" href="#eds">EDs</a>. The focus is on the prioritization of user agency, accessibility and lived experience in (digital) treatment design. The study identifies key areas important to most users with mild and moderate eating disorders. The findings have practical implications for the design of future digital interventions, enabling the designers to better address diverse needs and preferences of users with <a class="gls" href="#eds">EDs</a>, and the researchers to choose a direction for further studies. Despite the needs being accurately recognized, the study does not suggest any (novel) conceptual frameworks for practical implementation. The paper's strengths thus lie more in the descriptive summary, than they do in innovation.
 
-## How do we assess this study?
+### How methodologically reliable are the findings?
 
-:ghost: _Fill in here_
-
-### Substance of Effects
-
-:ghost: _Fill in here_
-
-### Differentiation
-
-:ghost: _Fill in here_
-
-### Generalizability
-
-:ghost: _Fill in here_
-
-### Scientific Relevance
-
-:ghost: _Fill in here_
-
-### Methodological Rigor
-
-:ghost: _Fill in here_
+The study uses a methodologically solid approach: systematic selection criteria, quality appraisal using CAPS conducted by two independent researchers, structured thematic analysis, precise questions distinguishing between user preferences and experiences, transparency with their choices and reflexivity within the interpretation.
+However, it is important to note that the variability and quality of the primary studies both influence the reliability of the otherwise structurally sound methodology. Out of 8 included studies, 5 used notably distinct study methods, 2 of which did not require the use of a digital intervention and 3 included some form of guidance within the intervention. The studies that met the criteria and were chosen also lack ethnic and demographic diversity, thus impacting the potential to generalize the findings and apply them in different cultural contexts.
 
 ## Practical Implications
 
-:ghost: _Fill in here_
+Even with acknowledging the previously mentioned limitations, the study offers actionable recommendations for the design and deployment of future (unguided) digital interventions in the <a class="gls" href="#eds">ED</a> realm:
+
+* **Personalization:** As eating disorders are highly individual, the interventions should be tailored to each user's particular needs.
+* **Customization:** Tying in with personalization, the interventions should allow users to customize their experience. This could include the ability to select which features they want to use, how they want to track their progress, and what types of content and media they want to engage with.
+
+These two points lead to one recommendation: the users should be able to "co-design" the intervention upon setup. That includes allowing the users to select the features they want to use, how they want to track their progress, what kind of media they prefer, and what their choices are on the overall design, look and feel of the intervention.
+
+* **Support:** A level of support is a factor still needed when it comes to healing from an <a class="gls" href="#eds">ED</a>. Even though most of the reviewd interventions were designed with no guidance in mind, the users still expressed their wishes for a certain level of interpersonal support, preferring a hybrid approach over complete autonomy. The fine level between autonomy and guidance is still to be determined, as it is highly individual. To that end, the authors suggest that user-dependent, AI powered support be tested in future works.
 
 ## Illustrative Study Example
 
-:ghost: _Fill in here_
+Based on the results of the CASP review conducted by two individual authors, the highest scoring sstudy was the one conducted by <a class="gls" href="https://formative.jmir.org/2022/10/e38387/">Jarman et al, in 2022.</a> The study had scored 25 out of 30 points, with deductions being in the domains of considered reflexivity (0/3), considered ethical issues (2/3) and rigor data anaysis (2/3).
+
+In their <a class="gls" href="https://mental.jmir.org/2025/1/e57795/#ref60">Multimedia Appendix 3</a>, the authors state the main findings in two distinct areas to be:
+
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>User experiences</th>
+      <th>User preferences</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Enthusiastic and open to trying a new approach. The app improved user’s wellbeing by promoting self-care activities. Users found the app’s convenience dependent on the context and environment.
+      </td>
+      <td>
+        More interactive features to sustain engagement, a calorie counting function, and more social interaction.
+        <br>
+        Students rarely pay for apps and often overlook apps that cost money. </br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+The study by Jafari et al. involves an app specifically designed to help deal with binge eating using the tactics of mindful eating. The study assesses early stage facets using a mixed methods approach among undergraduate women who binge eat and clinical experts in the field of disordered eating and nutrition.
+
+Results show that the users experienced decreases in BE, increases in intuitive eating, and to a small degree, increases in ME. The intervention demonstrated good feasibility with a 92% retention rate. Participants used the app for an average of 23.8 ± 5.7 days over the course of 4 weeks, 2-3 times per day, for 2-4 minutes each time. 83% of participants indicated daily app usage.
+
+
+Overall, the study shows the effectiveness of the app in curbing binge eating, as well as providing both a collection of the most wanted features according to the participants (interactivity and diversified forms of interaction with the app, food logging fields, lower costs as the app was prices at 2.99$), as well as expert opinions, with the clinicians being generally enthusiastic and ready to use the app as a foundational tool for assisting clients with learning basic awareness and interoceptive skills.
+
 
 ## Glossary
 
@@ -283,4 +327,7 @@ users throughout their recovery journey.
   
   <dt id="cbt">CBT</dt>
   <dd>Cognitive Behavioral Therapy - A psychotherapeutic approach focused on challenging and changing cognitive distortions and behaviors, improving emotional regulation, and developing personal coping strategies. CBT is the recommended first-line treatment for many eating disorders.</dd>
+
+  <dt id="magic">MAGIC</dt>
+  <dd>Named after Robert Abelson, a former statistics professor at Yale University (USA), these five criteria outline what is required for a data-driven argument to be considered convincing. The effects should ideally have: a certain magnitude (size), sufficient articulation (clarity and nuance), broad generalizability, interestingness in terms of offering new insights and credibility in terms of methodological soundness. The first letters of these five criteria form the acronym MAGIC, which is why they are often referred to as the MAGIC criteria.</dd>
 </dl>
