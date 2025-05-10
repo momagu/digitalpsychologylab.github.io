@@ -1,5 +1,5 @@
 ---
---- 
+---
 
 @import "minima";
 
@@ -56,4 +56,27 @@ h6 {
   letter-spacing: 0.5px;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
   /* Subtle text shadow */
+}
+
+table {
+  border: none;
+
+  tr &:odd {
+    background-color: #f8f9fa;
+  }
+
+  td {
+    vertical-align: top;
+    /* Align text to the top of table cells */
+  }
+
+  th {
+    /* Accent color for table header */
+    background-color: hsl(210, 29%, 84%);
+    color: black;
+    /* Modern dark blue-gray text */
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    border: none;
+  }
 }

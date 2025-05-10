@@ -28,3 +28,6 @@ node_modules/
 
 # Gemfile.lock, if you are not using it for deployment
 Gemfile.lock
+
+# Insync files
+.~*
