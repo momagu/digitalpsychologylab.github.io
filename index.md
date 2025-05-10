@@ -8,12 +8,13 @@ title:
   Eating Disorders"
 ---
 
-Self-guided digital interventions for the treatment of eating disorders (EDs)
-are becoming increasingly popular. However, the effectiveness of these
-interventions is still under investigation. The meta-analysis "User Experiences
-of and Preferences for Self-Guided Digital Interventions for the Treatment of
-Mild to Moderate Eating Disorders" by Cheung et al. (2025) aims to provide
-insights into the user experiences and preferences for these interventions.
+Self-guided digital interventions for the treatment of eating disorders
+(<a class="gls" href="#eds">EDs</a>) are becoming increasingly popular. However,
+the effectiveness of these interventions is still under investigation. The
+meta-analysis "User Experiences of and Preferences for Self-Guided Digital
+Interventions for the Treatment of Mild to Moderate Eating Disorders" by Cheung
+et al. (2025) aims to provide insights into the user experiences and preferences
+for these interventions.
 
 <div class="highlight-box" markdown="1">
 ## Meta-Analysis Overview
@@ -21,46 +22,49 @@ insights into the user experiences and preferences for these interventions.
 **Focus of study**: User Experiences of and Preferences for Self-Guided Digital
 Interventions for the Treatment of Mild to Moderate Eating Disorders
 
-**Target Group**: Adults (18-67 years) with mild-moderate ED symptoms,
-predominantly female and Caucasian, mostly self-reporting symptoms.
+**Target Group**: Adults (18-67 years) with mild-moderate
+<a class="gls" href="#eds">ED</a> symptoms, predominantly female and Caucasian,
+mostly self-reporting symptoms.
 
 **Average Effect Size**: Most users reported positive experiences with digital
 interventions, finding them convenient, flexible, and helpful for increasing
 self-reflection and mindfulness. Digital interventions were effective in
-reducing ED thoughts and behaviors. However, users generally perceived them as
-insufficient as standalone treatments, viewing them either as an early
-intervention before traditional therapy or as a "last resort" after unsuccessful
-treatment attempts.
+reducing <a class="gls" href="#eds">ED</a> thoughts and behaviors. However,
+users generally perceived them as insufficient as standalone treatments, viewing
+them either as an early intervention before traditional therapy or as a "last
+resort" after unsuccessful treatment attempts.
 
 **Additional Findings**: Users strongly emphasized the need for personalization
-and customization of digital interventions to accommodate diverse ED symptoms,
-triggers, and knowledge levels, with preferences for varied content formats,
-support options (both professional and peer), and intuitive interfaces that
-minimize technical difficulties.
+and customization of digital interventions to accommodate diverse
+<a class="gls" href="#eds">ED</a> symptoms, triggers, and knowledge levels, with
+preferences for varied content formats, support options (both professional and
+peer), and intuitive interfaces that minimize technical difficulties.
 
 </div>
 
 ## Introduction
 
-Eating disorders (EDs) represent a significant global health challenge, with
-lifetime prevalence rates of 8.4% for women and 2.2% for men. Healthcare systems
+Eating disorders represent a significant global health challenge, with lifetime
+prevalence rates of 8.4% for women and 2.2% for men. Healthcare systems
 worldwide struggle to meet treatment demands, particularly following the
-COVID-19 pandemic which saw increased ED symptoms and referrals. Long waitlists
-have forced specialist services to prioritize severe cases, leaving individuals
-with mild to moderate EDs with limited options.
+COVID-19 pandemic which saw increased <a class="gls" href="#eds">ED</a> symptoms
+and referrals. Long waitlists have forced specialist services to prioritize
+severe cases, leaving individuals with mild to moderate
+<a class="gls" href="#eds">ED</a>s with limited options.
 
 Digital interventions delivered through smartphone applications or websites
 offer a promising solution. These interventions typically provide cognitive
-behavioral therapy (CBT)-based approaches including psychoeducation, cognitive
-restructuring, and self-monitoring components. They address both structural
-barriers (providing immediate, low-cost access) and non-structural barriers such
-as stigma by offering discrete treatment approaches.
+behavioral therapy (<a href="#cbt">CBT</a>)-based approaches including
+psychoeducation, cognitive restructuring, and self-monitoring components. They
+address both structural barriers (providing immediate, low-cost access) and
+non-structural barriers such as stigma by offering discrete treatment
+approaches.
 
-Despite demonstrated effectiveness in reducing ED behaviors and attitudes with
-medium effect sizes, digital interventions face significant challenges with
-engagement. Dropout rates range from 5.3% to 76.8% (averaging 26.3%),
-considerably higher than for face-to-face treatments, suggesting issues with
-adherence that may limit their effectiveness.
+Despite demonstrated effectiveness in reducing <a class="gls" href="#eds">ED</a>
+behaviors and attitudes with medium effect sizes, digital interventions face
+significant challenges with engagement. Dropout rates range from 5.3% to 76.8%
+(averaging 26.3%), considerably higher than for face-to-face treatments,
+suggesting issues with adherence that may limit their effectiveness.
 
 The meta-analysis by Cheung et al. (2025) addresses these concerns by
 systematically reviewing qualitative studies on user experiences and
@@ -83,16 +87,19 @@ participants under 18 years old, focused on specific subgroups with comorbid
 conditions, or featured fully guided interventions.
 
 The meta-synthesis addressed two primary research questions: (1) What are user
-experiences of digital interventions for reducing ED symptoms in adults? and (2)
-What are user preferences for digital interventions for reducing ED symptoms in
-adults? To answer these questions, the researchers conducted a thematic
-synthesis using line-by-line coding of results from each study, generating
-themes that captured key aspects of user experiences and preferences. This
-approach allowed for an in-depth exploration of attitudes, views, and
-experiences critical to intervention acceptability, outcome, and engagement.
+experiences of digital interventions for reducing
+<a class="gls" href="#eds">ED</a> symptoms in adults? and (2) What are user
+preferences for digital interventions for reducing
+<a class="gls" href="#eds">ED</a> symptoms in adults? To answer these questions,
+the researchers conducted a thematic synthesis using line-by-line coding of
+results from each study, generating themes that captured key aspects of user
+experiences and preferences. This approach allowed for an in-depth exploration
+of attitudes, views, and experiences critical to intervention acceptability,
+outcome, and engagement.
 
 Through systematic analysis, seven metathemes emerged that comprehensively
-describe how users perceive and engage with digital ED interventions:
+describe how users perceive and engage with digital
+<a class="gls" href="#eds">ED</a> interventions:
 
 <table class="table table-bordered">
   <thead>
@@ -173,7 +180,7 @@ describe how users perceive and engage with digital ED interventions:
       </td>
     </tr>
     <tr>
-      <td><strong>Shaping Knowledge to Improve ED Behaviors</strong></td>
+      <td><strong>Shaping Knowledge to Improve <a class="gls" href="#eds">ED</a> Behaviors</strong></td>
       <td>
         How interventions increase self-awareness and improve eating behaviors.
         <br /><br />
@@ -256,7 +263,7 @@ users throughout their recovery journey.
 
 :ghost: _Fill in here_
 
-### Methodolocical Rigor
+### Methodological Rigor
 
 :ghost: _Fill in here_
 
@@ -267,3 +274,13 @@ users throughout their recovery journey.
 ## Illustrative Study Example
 
 :ghost: _Fill in here_
+
+## Glossary
+
+<dl class="glossary">
+  <dt id="eds">EDs</dt>
+  <dd>Eating Disorders - A range of psychological conditions characterized by abnormal or disturbed eating habits that negatively impact physical or mental health.</dd>
+  
+  <dt id="cbt">CBT</dt>
+  <dd>Cognitive Behavioral Therapy - A psychotherapeutic approach focused on challenging and changing cognitive distortions and behaviors, improving emotional regulation, and developing personal coping strategies. CBT is the recommended first-line treatment for many eating disorders.</dd>
+</dl>
