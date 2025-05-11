@@ -351,10 +351,9 @@ study evaluates the usability of a specific digital intervention.
 
 Based on the results of the CASP review conducted by two individual authors, the
 highest scoring study was the one conducted by
-<a href="https://formative.jmir.org/2022/10/e38387/">Jarman et al, in 2022.</a>
-The study had scored 25 out of 30 points, with deductions being in the domains
-of considered reflexivity (0/3), considered ethical issues (2/3) and rigor data
-analysis (2/3).
+<a href="https://formative.jmir.org/2022/10/e38387/">Jafari et al, in 2021.</a>
+The study had scored 23 out of 30 points, with deductions being in the domains
+of appropriate recruitment (1/3), appropriate data collection (2/3), considered reflexivity (2/3), considered ethical issues (1/3), clear findings (2/3) and value of research (2/3).
 
 In their <a href="https://mental.jmir.org/2025/1/e57795/#ref60">Multimedia
 Appendix 3</a>, the authors state the main findings in two distinct areas to be:
