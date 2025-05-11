@@ -21,7 +21,7 @@ for these interventions.
 ## Meta-Analysis Overview
 
 **Focus of study**: User Experiences of and Preferences for Self-Guided Digital
-Interventions for the Treatment of Mild to Moderate Eating Disorders
+Interventions for the Treatment of Mild to Moderate Eating Disorders.
 
 **Target Group**: Adults (18-67 years) with mild-moderate
 <a class="gls" href="#eds">ED</a> symptoms, predominantly female and Caucasian,
@@ -341,7 +341,13 @@ design, look and feel of the intervention.
   To that end, the authors suggest that user-dependent, AI powered support be
   tested in future works.
 
-## Illustrative Study Example
+## Illustrative Study Examples
+
+Two studies from the meta-analysis are highlighted to illustrate the
+findings. The first study focuses on user experiences and preferences, while
+the second study evaluates the usability of a specific digital intervention.
+
+### Study Example 1: User Experiences and Preferences
 
 Based on the results of the CASP review conducted by two individual authors, the
 highest scoring study was the one conducted by
@@ -395,6 +401,43 @@ app, food logging fields, lower costs as the app was priced at 2.99$), as well
 as expert opinions, with the clinicians being generally enthusiastic and ready
 to use the app as a foundational tool for assisting clients with learning basic
 awareness and interceptive skills.
+
+### Study Example 2: Usability Evaluation
+
+Another noteworthy study included in the meta-analysis was conducted by Linardon
+et al. (2022), who evaluated the usability of a cognitive-behavioral app-based
+intervention for binge eating called "Break Binge Eating." Fourteen participants
+(11 female) with self-reported binge eating episodes were recruited to test the
+app for seven days before paricipating in a test session.
+
+The test session incorporated multiple assessment methods including the _Eating
+Disorder Examination Questionnaire_ to evaluate ED symptom severity, alongside
+comprehensive usability measurements. Researchers employed the validated System
+Usability Scale (SUS) and additional usability scales for quantitative
+assessment, complemented by qualitative data collection through think-aloud
+tasks and semi-structured interviews. This multi-method approach enabled a
+thorough evaluation of the app's functional utility and user experience from
+different analytical perspectives.
+
+The qualtative data was analyzed using thematic analysis, with the themes
+usability, visual design, user engagement, content, therapeutic persuasiveness, and
+therapeutic alliance emerging as key areas of focus.
+
+Key advantages reported by users included:
+
+- Flexible content-delivery formats (audio, text, and images)
+- High level of interactivity through e.g. quizzes and progress tracking
+- Ability to track progress, which increased self-awareness and motivation
+
+However, participants also expressed concerns about:
+
+- Visual aesthetics (some found the design too simplistic)
+- Lack of professional feedback and support
+
+Overall, the study highlighted the importance of usability and user experience
+in digital interventions for binge eating, emphasizing the need for a balance
+between engaging content and professional support. The findings underscore the
+potential of digital interventions to enhance self-awareness and motivation.
 
 ## Glossary
 
