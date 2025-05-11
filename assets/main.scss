@@ -1,14 +1,12 @@
 ---
 ---
 
-@import "minima";
-
 .highlight-box {
   background-color: #f8f9fa;
   /* Light neutral background */
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
   /* Subtle shadow for depth */
-  color: #2c3e50;
+  color: black;
   /* Modern dark blue-gray text */
   padding: 20px;
   margin-bottom: 20px;
@@ -16,12 +14,14 @@
   border-left: 4px solid #4a6fa5;
   /* Accent color on left side */
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  strong {
+    color: #2c3e50;
+    /* Modern dark blue-gray text */
   }
 }
+
+// This file is a Sass stylesheet for a Jekyll theme.
+@import "minima";
 
 .post-title,
 .page-title {
@@ -60,8 +60,9 @@ h6 {
 
 table {
   border: none;
+  color: black;
 
-  tr &:odd {
+  tr:odd {
     background-color: #f8f9fa;
   }
 
@@ -73,7 +74,6 @@ table {
   th {
     /* Accent color for table header */
     background-color: hsl(210, 29%, 84%);
-    color: black;
     /* Modern dark blue-gray text */
     font-weight: 500;
     letter-spacing: 0.5px;
