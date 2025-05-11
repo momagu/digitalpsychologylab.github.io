@@ -155,7 +155,7 @@ Through systematic analysis, seven metathemes emerged that comprehensively
 describe how users perceive and engage with digital
 <a class="gls" href="#eds">ED</a> interventions:
 
-<table class="table table-bordered">
+<table>
   <thead>
     <tr>
       <th>Metatheme</th>
@@ -344,7 +344,7 @@ design, look and feel of the intervention.
 ## Illustrative Study Example
 
 Based on the results of the CASP review conducted by two individual authors, the
-highest scoring sstudy was the one conducted by
+highest scoring study was the one conducted by
 <a class="gls" href="https://formative.jmir.org/2022/10/e38387/">Jarman et al,
 in 2022.</a> The study had scored 25 out of 30 points, with deductions being in
 the domains of considered reflexivity (0/3), considered ethical issues (2/3) and
@@ -354,11 +354,11 @@ In their
 <a class="gls" href="https://mental.jmir.org/2025/1/e57795/#ref60">Multimedia
 Appendix 3</a>, the authors state the main findings in two distinct areas to be:
 
-<table class="table table-bordered">
+<table>
   <thead>
     <tr>
-      <th>User experiences</th>
-      <th>User preferences</th>
+      <th style="width: 50%">User experiences</th>
+      <th style="width: 50%">User preferences</th>
     </tr>
   </thead>
   <tbody>
