@@ -8,13 +8,13 @@ title:
   Eating Disorders"
 ---
 
-Self-guided digital interventions for the treatment of eating disorders
-(<a class="gls" href="#eds">EDs</a>) are becoming increasingly popular. However,
-the effectiveness of these interventions is still under investigation. The
+Self-guided digital interventions for the treatment of eating disorders (<a
+class="gls" href="#eds">EDs</a>) are becoming increasingly popular. However, the
+effectiveness of these interventions is still under investigation. The
 meta-analysis "User Experiences of and Preferences for Self-Guided Digital
-Interventions for the Treatment of Mild to Moderate Eating Disorders" by Cheung
-et al. (2025) aims to provide insights into the user experiences and preferences
-for these interventions.
+Interventions for the Treatment of Mild to Moderate Eating Disorders" by <a
+href="https://doi.org/10.2196/57795">Cheung et al. (2025)</a>  aims to provide
+insights into the user experiences and preferences for these interventions.
 
 <div class="highlight-box" markdown="1">
 
@@ -343,21 +343,20 @@ design, look and feel of the intervention.
 
 ## Illustrative Study Examples
 
-Two studies from the meta-analysis are highlighted to illustrate the
-findings. The first study focuses on user experiences and preferences, while
-the second study evaluates the usability of a specific digital intervention.
+Two studies from the meta-analysis are highlighted to illustrate the findings.
+The first study focuses on user experiences and preferences, while the second
+study evaluates the usability of a specific digital intervention.
 
 ### Study Example 1: User Experiences and Preferences
 
 Based on the results of the CASP review conducted by two individual authors, the
 highest scoring study was the one conducted by
-<a class="gls" href="https://formative.jmir.org/2022/10/e38387/">Jarman et al,
-in 2022.</a> The study had scored 25 out of 30 points, with deductions being in
-the domains of considered reflexivity (0/3), considered ethical issues (2/3) and
-rigor data analysis (2/3).
+<a href="https://formative.jmir.org/2022/10/e38387/">Jarman et al, in 2022.</a>
+The study had scored 25 out of 30 points, with deductions being in the domains
+of considered reflexivity (0/3), considered ethical issues (2/3) and rigor data
+analysis (2/3).
 
-In their
-<a class="gls" href="https://mental.jmir.org/2025/1/e57795/#ref60">Multimedia
+In their <a href="https://mental.jmir.org/2025/1/e57795/#ref60">Multimedia
 Appendix 3</a>, the authors state the main findings in two distinct areas to be:
 
 <table>
@@ -404,11 +403,12 @@ awareness and interceptive skills.
 
 ### Study Example 2: Usability Evaluation
 
-Another noteworthy study included in the meta-analysis was conducted by Linardon
-et al. (2022), who evaluated the usability of a cognitive-behavioral app-based
-intervention for binge eating called "Break Binge Eating." Fourteen participants
-(11 female) with self-reported binge eating episodes were recruited to test the
-app for seven days before paricipating in a test session.
+Another noteworthy study included in the meta-analysis was conducted by
+<a href="https://doi.org/10.1177/01454455211021764">Linardon et al. (2022)</a>
+, who evaluated the usability of a cognitive-behavioral app-based intervention
+for binge eating called "Break Binge Eating." Fourteen participants (11 female)
+with self-reported binge eating episodes were recruited to test the app for
+seven days before participating in a test session.
 
 The test session incorporated multiple assessment methods including the _Eating
 Disorder Examination Questionnaire_ to evaluate ED symptom severity, alongside
@@ -420,8 +420,8 @@ thorough evaluation of the app's functional utility and user experience from
 different analytical perspectives.
 
 The qualtative data was analyzed using thematic analysis, with the themes
-usability, visual design, user engagement, content, therapeutic persuasiveness, and
-therapeutic alliance emerging as key areas of focus.
+usability, visual design, user engagement, content, therapeutic persuasiveness,
+and therapeutic alliance emerging as key areas of focus.
 
 Key advantages reported by users included:
 
