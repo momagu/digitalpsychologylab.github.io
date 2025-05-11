@@ -131,7 +131,7 @@ users throughout their recovery journey.
 
 ## How do we assess this study?
 
-This evaluation was done according to the (<a class="gls" href="#magic">MAGIC Criteria</a>), using the following five questions:
+This evaluation was done according to the <a class="gls" href="#magic">MAGIC Criteria</a>, using the following five questions:
 
 ### How substantial are the effects?
 
