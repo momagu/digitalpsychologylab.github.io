@@ -350,7 +350,7 @@ study evaluates the usability of a specific digital intervention.
 ### Study Example 1: User Experiences and Preferences
 
 Based on the results of the CASP review conducted by two individual authors,a study conducted by 
-<a href="https://formative.jmir.org/2022/10/e38387/">Jafari et al, in 2021</a> had scored 23 out of 30 points, with deductions being in the domains of appropriate recruitment (1/3), appropriate data collection (2/3), considered reflexivity (0/3), rigor data analysis (2/3).
+<a href="https://www.proquest.com/openview/0ed1eb64832c9f630f3b9adb4aab32b1/1?pq-origsite=gscholar&cbl=18750&diss=y">Jafari et al, in 2021</a> had scored 23 out of 30 points, with deductions being in the domains of appropriate recruitment (1/3), appropriate data collection (2/3), considered reflexivity (0/3), rigor data analysis (2/3).
 
 In their Multimedia Appendix 3, the authors state the main findings in two distinct areas to be:
 
