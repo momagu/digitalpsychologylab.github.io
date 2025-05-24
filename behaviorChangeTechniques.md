@@ -182,31 +182,92 @@ interventions can be effective even with minimal human guidance.
 
 ## How do we assess this study?
 
-:ghost: Content wanted!
+This evaluation was done according to the <a class="gls" href="#magic">MAGIC Criteria</a>, using the following five questions:
 
 ### How substantial are the effects?
 
-:ghost: Content wanted!
+The study incorporates the results from 80 RCTs, with participants accurately depicting the ED demographics (predominantly women, different types of EDs).
+16 out of 17 studies report some sort of theoretical basis in their intervention designs and 13 have a construct their respective treatment designs target. The way theory or predictors were used to select or develop BCTs is reported in 13 studies, but most of the time not explicitly so; the authors would simply list features and their theoretical constructs.
+
+The results reveal statistically significant effects favoring digital interventions in order to alleviate EDs. The effect size MD of -0.57 (95% CI –0.80 to –0.39, Z=4.77, P < .001) shows that, on average, participants that were in the group with access to a digital intervention experiences notable improvements when compared to those in control groups.
+
+High heterogeneity (I²=77%) warranted a subgroup analyses, but the resulting sensitivity analysis did not explain the variability. The only statistically relevant moderation effect coming from the subgroup analysis shows that interventions highly grounded in theory (MD=–0.86, 95% CI –1.06 to –0.66; I²=37%) are significantly more effective than those with low theoretical basis (MD=–0.36, 95% CI –0.61 to –0.11; I²=56%).
+
+Follow-ups were conducted for 9 out of 17 studies and they reveal a somewhat lower effect size of MD = -33 (95% CI –0.49 to –0.18, Z=4.27, P<0.001), indicating that the effects diminish over time. Important to note is the finding that these effects are similar to those found in some traditional, face to face, treatments for mild to moderate EDs. 
+
+The authors explicitly state that, even though the effect size is significant (meaning an effect is unlikely due to chance) the meta-analysis does not assess clinical meaningfulness (whether the change is large enough to be important in patients' daily lives). 
+
+
+
 
 ### How are the results presented?
 
-:ghost: Content wanted!
+The results are broken down across several domains:
+
+<ul>
+  <li><strong>Statistical analysis:</strong>
+      <ul>
+      <li>Pooled outcomes using mean differences, confidence intervals, Z-scores, and heterogeneity (I²)</li>
+      <li>Subgroup analyses based on the extent to which psychological theory is used within a study, and BCT types</li>
+    </ul>
+  </li>
+  <li><strong>Behavior change techniques (BCTs):</strong> coding each intervention and highlighting the most common ones that appear in effective interventions </li>
+  <li><strong>Modes of delivery:</strong> based on the use of digital channels (apps, web, multimedia) showing predominant reliance on text and websites</li>
+  <li><strong>Risk of bias:</strong> using the Cochrane Risk-of-Bias tools</li>
+  <li><strong>Follow-up data:</strong> looking into immediate and sustained treatment effects</li>
+</ul>
+
+
+
+
+
 
 ### How generalizable are the findings?
 
-:ghost: Content wanted!
+Overall generalizibility is heavily influenced by the sample size and demographics:
+<ul>
+  <li>Total participants across included RCTs: 5,254</li>
+  <li>Studies with ≥95% female participants: 53% (9/17)</li>
+  <li>Studies that reported ethnicity: 18% (3/17)</li>
+  <li>Mean age range across studies: 22.1 to 43.2 years</li>
+  <li>Europe: 65% (11/17 studies)</li>
+  <li>Australia/New Zealand: 24% (4/17 studies)</li>
+  <li>North America: 12% (2/17 studies)</li>
+</ul>
+
+This breakdown suggests that the findings are robust within certain contexts, meaning that one should be cautious when generalizing a to more diverse population.
+The field of research itself would benefit from a study with a broader demographic inclusion, in particular men and older adults that are severely underrepresented in ED research.
+
+It must be noted that the meta-analysis uses sound methodological methods and corrects for bias wherever possible.
+
+
 
 ### What makes the meta analysis scientifically relevant?
 
-:ghost: Content wanted!
+The main thing that makes this meta analysis relevant is in the rigorous dissection of mechanism behind each intervention (type) used in the primary papers. The authors use robust statistical techniques, lay a lot of worth on theoretical foundations and include a systematic approach to BCT identification. The result is a theoretically sound and evidence-based approach to designing digital interventions for EDs important for application users, designers and medical experts/researchers alike.
+
 
 ### How methodologically reliable are the findings?
 
-:ghost: Content wanted!
+This meta-analysis is characterized by a strong adherence to best practices and transparency. It includes papers found across 8 major databases and includes studies that exclusively focus on RCTs. The inclusion criteria was comprehensive and strictly adhered to. All included studies are coded using BCT Taxonomy, modes of delivery were classified using Delivery Ontology v2, Theory Coding Scheme (TCS) is used to examine the theoretical foundation of each study and the coding was performed by two independent researchers with a third mediator to resolve discrepancies. Random-effects model accounts for heterogeneity and sensitivity analyses. 
+High dropout rates (6.7% to 58%) and missing date raise the chances of attrition bias occurring, but subgroup analysis showed no significant differences in overall outcomes.
+Authors themselves note the possibility of self-reporting bias occurring, as well as that one of the measurement tools, EDE-Q, may not have covered all compensatory behaviours.
+
+Overall, the methodological reliability can be described as solid, with possible bias coming from primary studies themselves and not the methodology. The authors acknowledge the limitations, make note of mentioning that the results should be interpreted with caution and call for higher-quality research in the future.
+
 
 ## Practical Implications
 
-:ghost: Content wanted!
+The meta-analysis confirms clinical effectiveness of digital interventions in reducing core ED symptoms, thus supporting broader implementation of these kinds of mental healthcare models, especially for populations unable or unwilling to access traditional therapy models. It also underscores the importance of theory-based design, as well as BCT as foundations for effective interventions. Grounding digital tools in established psychological frameworks and practices is important for all stakeholders: first of all the patients whose mental health could potentially be compromised, as well as researchers who otherwise could not do further research in this domain and intervention designers and developers responsible. 
+
+Another important implication comes from the demographic diversity, or the lack thereof, highlighting the need to exercise caution when generalizing the findings to broader population.
+
+Overall, this meta-analysis provides practical, evidence-based guidelines for improving digital interventions and bridging the treatment gap.
+
+
+
+
+
 
 ## Illustrative Study Examples
 
@@ -263,9 +324,63 @@ incorporating multiple behavior change techniques can effectively reduce eating
 disorder symptoms and improve treatment access in a population that
 traditionally faces significant barriers to care.
 
-### Study Example 2: [Study Name]
+### Study Example 2: Effectiveness of an online self-help program, expert-patient support, and their combination for eating disorders: Results from a randomized controlled trial (2022)
 
-:ghost: Content wanted!
+In a randomized controlled trial, Rohrbach et al. (2022) evaluate the effectiveness of a digital intervention, support provided by recovered patients and the combination of the two.
+
+**Methodology:**
+A total of 355 participants, 96.7% female with the mean age of 28 and many never having received ED treatment, were randomized into four groups:
+- digital intervention only
+- expert-patient support only
+- both digital intervention and expert-patient support
+- waitlist control
+
+The RCT lasted for 12 months, with 8 weeks of intervention time and 6 online assessments.
+
+Featback- the digital intervention the researchers used- is an automated online self-help web-app. It delivered weekly e-mail feedback based on symptom tracking and included psychoeducation.
+
+Expert-patient support included weekly chatting sessions.
+
+Participants in the third group additionally had free access to traditional therapy modes, in order to make it comparable the waiting list conditions.
+
+**Results:**
+
+All three intervention types led to significant symptom reduction when compared to the waitlist (Cohen's d=0.38). ED symptom reduction was measured using EDE-Q. When compared to each other, no significant differences were found, but the improvements held for the 12 month RCT period.
+Notably, patients in the third group, combined approach, did not show better treatment effects, but they did report higher user satisfaction.
+
+<table>
+  <thead>
+    <tr>
+      <th>Intervention</th>
+      <th>Mean User Satisfaction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Featback</td>
+      <td>5.8/10</td>
+    </tr>
+    <tr>
+      <td>Patient-expert</td>
+      <td>7.4/10</td>
+    </tr>
+    <tr>
+      <td>Combination</td>
+      <td>7.1/10</td>
+    </tr>
+  </tbody>
+</table>
+
+However, only 38% in the combination condition received "enough" of both components.
+
+Modest improvements in anxiety and depression at post-intervention, as well as the gains in self-efficacy were observed in the 12 month follow up period. 
+There was no significant difference across groups when it comes to seeking professional help.
+
+**Discussion:**
+
+This study confirms that low-threshold digital interventions like Featback can effectively reduce ED symptoms, even for individuals not currently in treatment.
+The absence of additive benefits from combining guidance with automation raises important questions about the cost-effectiveness of guided support. However, seeing that the results show that users value human connection, even if it doesn’t directly influence clinical outcomes, an argument could be made that it adds net positive value to clinical outcomes by proxy (user satisfaction boosts engagement)
+
 
 ## Glossary
 
@@ -291,3 +406,8 @@ traditionally faces significant barriers to care.
   <dt id="magic">MAGIC</dt>
   <dd>Named after Robert Abelson, a former statistics professor at Yale University (USA), these five criteria outline what is required for a data-driven argument to be considered convincing. The effects should ideally have: a certain magnitude (size), sufficient articulation (clarity and nuance), broad generalizability, interestingness in terms of offering new insights and credibility in terms of methodological soundness. The first letters of these five criteria form the acronym MAGIC, which is why they are often referred to as the MAGIC criteria.</dd>
 </dl>
+
+
+
+
+
