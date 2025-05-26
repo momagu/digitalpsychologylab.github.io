@@ -326,7 +326,7 @@ traditionally faces significant barriers to care.
 
 ### Study Example 2: Effectiveness of an online self-help program, expert-patient support, and their combination for eating disorders: Results from a randomized controlled trial (2022)
 
-In a randomized controlled trial, Rohrbach et al. (2022) evaluate the effectiveness of a digital intervention, support provided by recovered patients and the combination of the two.
+In a randomized controlled trial, <a href="https://pubmed.ncbi.nlm.nih.gov/35906929/">Rohrbach et al. (2022)</a> evaluate the effectiveness of a digital intervention, support provided by recovered patients and the combination of the two.
 
 **Methodology:**
 A total of 355 participants, 96.7% female with the mean age of 28 and many never having received ED treatment, were randomized into four groups:
