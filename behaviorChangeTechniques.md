@@ -275,6 +275,7 @@ The following study examples illustrate how behavior change techniques were
 implemented in digital interventions for eating disorders and their outcomes.
 
 ### Study Example 1: Fitzsimmons-Craft et al. (2020)
+*By Moritz*
 
 A notable study by
 <a href="https://doi.org/10.1001/jamanetworkopen.2020.15633">Fitzsimmons-Craft
@@ -325,6 +326,7 @@ disorder symptoms and improve treatment access in a population that
 traditionally faces significant barriers to care.
 
 ### Study Example 2: Effectiveness of an online self-help program, expert-patient support, and their combination for eating disorders: Results from a randomized controlled trial (2022)
+*By Una*
 
 In a randomized controlled trial, <a href="https://pubmed.ncbi.nlm.nih.gov/35906929/">Rohrbach et al. (2022)</a> evaluate the effectiveness of a digital intervention, support provided by recovered patients and the combination of the two.
 
